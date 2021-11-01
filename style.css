@@ -1,0 +1,97 @@
+.nav_bar{
+    width: 100%;
+    background-color: #fff;
+    height: 117.344px;
+    display: flex;
+    text-align: center;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+  
+ 
+}
+.nav_item{
+    list-style-type: none;
+    text-align: center;
+    margin-top: 39px;
+    padding: 0%;
+    margin-right: 0%; 
+
+  }
+
+   
+
+
+.count_icon_shop{
+font-family: 'Courier New', Courier, monospace;
+font-size: large;
+font-weight: bold;
+}
+
+.phone_call{
+    display: flex;
+    flex-direction: row;
+    width: 210px;
+}
+
+.img_phone_style{
+    height: 45px;  
+    margin-top: 32px;
+}
+
+.nav_bar_menu{
+    width: 95%;
+    background-color: #fff;
+    height: 117.344px;
+    display: flex;
+    text-align: center;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+   
+}
+
+.img_shop{
+    display: flex;
+    flex-direction: row;
+}
+
+.img_shop_style{
+    height: 45px;
+    margin-top: 32px;
+    margin-right: 100px;
+}
+
+
+.img_logo{
+    display: flex;
+    flex-direction: row;
+    margin-right: 30px;
+}
+
+.a_style{
+    text-decoration: none;
+    color: black;
+}
+
+.img_background{
+    background-image: url("./pexels-marta-branco-1295572.jpg");
+    height: 500px;
+    border-radius: 5px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.curves_img{
+    height: 23rem; 
+    width: 100%;
+    margin-top: 310px; 
+    object-fit: cover; 
+    position: relative;
+}
+
+.img_nuts_style{
+    position: absolute; 
+    top: 80%;
+    right: 40%;
+}
